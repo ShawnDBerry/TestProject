@@ -1,4 +1,4 @@
-package main;
+package testCodeClasses;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -8,7 +8,6 @@ import java.util.Set;
 public class PrintDuplicateString {
 
 	public void PrintDubs(List<String> list) {
-		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 		 list = new ArrayList<>();
 				list.add("Monique");
